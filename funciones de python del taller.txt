@@ -1,0 +1,6 @@
+len() → cuenta elementos de una lista o diccionario
+sum() → suma números de una lista
+max() → obtiene el valor más grande
+min() → obtiene el valor más pequeño
+print() → muestra información en pantalla
+float() → convierte a número decimal (float("inf"), infinito)
